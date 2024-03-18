@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "65f809d7996d9d2670c4f926"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f809d7996d9d2670c4f927"
+  },
+  "package": "import",
+  "MongoDBexample;": "org.springframework.boot.SpringApplication;"
+},
+{
+  "_id": {
+    "$oid": "65f809d7996d9d2670c4f928"
+  },
+  "package": "import",
+  "MongoDBexample;": "org.springframework.boot.autoconfigure.SpringBootApplication;"
+},
+{
+  "_id": {
+    "$oid": "65f809d7996d9d2670c4f929"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f809d7996d9d2670c4f92a"
+  },
+  "package": "@SpringBootApplication"
+},
+{
+  "_id": {
+    "$oid": "65f809d7996d9d2670c4f92b"
+  },
+  "package": "public",
+  "MongoDBexample;": "class"
+},
+{
+  "_id": {
+    "$oid": "65f809d7996d9d2670c4f92c"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f809d7996d9d2670c4f92d"
+  },
+  "package": "\tpublic",
+  "MongoDBexample;": "static"
+},
+{
+  "_id": {
+    "$oid": "65f809d7996d9d2670c4f92e"
+  },
+  "package": "\t\tSpringApplication.run(MongoDBexampleApplication.class,",
+  "MongoDBexample;": "args);"
+},
+{
+  "_id": {
+    "$oid": "65f809d7996d9d2670c4f92f"
+  },
+  "package": "\t}"
+},
+{
+  "_id": {
+    "$oid": "65f809d7996d9d2670c4f930"
+  }
+},
+{
+  "_id": {
+    "$oid": "65f809d7996d9d2670c4f931"
+  },
+  "package": "}"
+}]
